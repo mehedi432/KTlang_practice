@@ -7,9 +7,9 @@ kotlin practice for making Android Application.
 
 *****For Java Installation (PPA)*****
 
-`sudo add-apt-repository ppa:linuxuprising/java`
-`sudo apt-get update`
-`sudo apt-get install oracle-java10-installer`
+`sudo add-apt-repository ppa:linuxuprising/java
+ sudo apt-get update
+ sudo apt-get install oracle-java10-installer`
 
 *****For setting up environment variables (make java10 default)*****
 `sudo apt-get install oracle-java10-set-default`
